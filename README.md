@@ -1,2 +1,9 @@
-My personal profile 
-
+# Hi, 
+# I 
+# am 
+# Rylex.
+# I
+# like
+# to
+# code
+# stuff.
