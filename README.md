@@ -1,9 +1,4 @@
-# Hi, 
-# I 
-# am 
-# Rylex.
-# I
-# like
-# to
-# code
-# stuff.
+# Hi,         I            stuff.
+# I           like
+# am          to
+# Rylex.      code
