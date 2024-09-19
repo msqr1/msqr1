@@ -1,5 +1,1 @@
-Read vertically
-# Hi, I stuff. the
-# I like I most.
-# am to love 
-# Rylex. code C++
+![My github stats](https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=transparent)
